@@ -1,4 +1,4 @@
-![Kaleb](https://res.cloudinary.com/dhclgoera/image/upload/v1617308819/git_banner_x5isw4.png)
+![Kaleb](https://res.cloudinary.com/dhclgoera/image/upload/v1617309128/git_banner_y9cjsv.png)
 
 - 🔭 I’m currently working on Projects from https://www.frontendmentor.io/
 - 🌱 I’m currently learning [React](https://reactjs.org/) & JavaScript
