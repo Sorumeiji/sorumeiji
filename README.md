@@ -1,7 +1,7 @@
 ![Kaleb](https://res.cloudinary.com/dhclgoera/image/upload/v1617309128/git_banner_y9cjsv.png)
-[![typescript](https://img.shields.io/badge/JavaScript-Fan-253572.svg?logo=javascript&logoWidth=20)](https://github.com/natterstefan)
-[![blogger](https://img.shields.io/badge/dev.to-Follow%20Me-253572.svg?logo=dev.to&logoWidth=20)
-[![twitch](https://img.shields.io/badge/Twitch-Follow%20Me-253572.svg?logo=Twitch&logoWidth=20)
+![javascript](https://img.shields.io/badge/JavaScript-Fan-253572.svg?logo=javascript&logoWidth=20)
+![dev.to](https://img.shields.io/badge/dev.to-Follow%20Me-253572.svg?logo=dev.to&logoWidth=20)
+![twitch](https://img.shields.io/badge/Twitch-Follow%20Me-253572.svg?logo=Twitch&logoWidth=20)
 
 - 🔭 I’m currently working on Projects from https://www.frontendmentor.io/
 - 🌱 I’m currently learning [React](https://reactjs.org/) & JavaScript
