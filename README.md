@@ -1,5 +1,5 @@
 ![Kaleb](https://res.cloudinary.com/dhclgoera/image/upload/v1617309128/git_banner_y9cjsv.png)
-![GitHub Views](https://komarev.com/ghpvc/?username=sorumeiji&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=sorumeiji&color=253572)
 ![javascript](https://img.shields.io/badge/JavaScript-Fan-253572.svg?logo=javascript&logoWidth=20)
 ![dev.to](https://img.shields.io/badge/dev.to-Follow%20Me-253572.svg?logo=dev.to&logoWidth=20)
 ![twitch](https://img.shields.io/badge/Twitch-Follow%20Me-253572.svg?logo=Twitch&logoWidth=20)
