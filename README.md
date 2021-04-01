@@ -10,4 +10,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorumeiji)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorumeiji&hide=asp,c#&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sorumeiji)](https://github.com/anuraghazra/github-readme-stats)
