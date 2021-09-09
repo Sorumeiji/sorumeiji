@@ -3,9 +3,11 @@
 ![javascript](https://img.shields.io/badge/JavaScript-Fan-253572.svg?logo=javascript&logoWidth=20)
 <br>
 
-<h2>
-  I am nn aesthetic web developer and design advocate. I strive to help others to achieve their dreams through my own passions and creativity.
-</h2>
+<h1>
+  I am an aesthetic web developer and design advocate. 
+  I strive to help others to achieve their dreams through 
+  my own passions and creativity.
+</h1>
 
 
 
