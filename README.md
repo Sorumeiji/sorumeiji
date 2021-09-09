@@ -1,11 +1,13 @@
 ![Kaleb](https://res.cloudinary.com/dhclgoera/image/upload/v1631229456/git_banner_y9cjsv_iufia5.png)
 ![GitHub Views](https://komarev.com/ghpvc/?username=sorumeiji&color=253572)
 ![javascript](https://img.shields.io/badge/JavaScript-Fan-253572.svg?logo=javascript&logoWidth=20)
+![React](https://img.shields.io/badge/React-Fan-253572.svg?logo=javascript&logoWidth=20)
+![CSS](https://img.shields.io/badge/CSS-Fan-253572.svg?logo=javascript&logoWidth=20)
+![CSS](https://img.shields.io/badge/CSS-Fan-253572.svg?logo=javascript&logoWidth=20)
 ![dev.to](https://img.shields.io/badge/dev.to-Follow%20Me-253572.svg?logo=dev.to&logoWidth=20)
-![twitch](https://img.shields.io/badge/Twitch-Follow%20Me-253572.svg?logo=Twitch&logoWidth=20)
 <br>
 
-- 🔭 I’m currently working on Projects from https://www.frontendmentor.io/
+- 🔭 I’m currently working on creating websites
 - 🌱 I’m currently learning [React](https://reactjs.org/) & JavaScript
 - 💬 Ask me about anything [here](https://github.com/Sorumeiji/sorumeiji/issues)
 <br>
