@@ -4,11 +4,13 @@
 <br>
 
 <h1>
-  I am an aesthetic web developer and design advocate. 
-  I strive to help others to achieve their dreams through 
-  my own passions and creativity.
+ I AM AN AESTHETIC WEB DEVELOPER AND DESIGN ADVOCATE<br> 
+ WHO STRIVES TO HELP OTHERS TO ACHIEVE THIER OWN DREAMS<br> 
+ THROUGH MY OWN PASSIONS AND CREATIVITY
 </h1>
 
+
+<h2> What I love to do. </h2>
 
 
 
