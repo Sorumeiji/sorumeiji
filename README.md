@@ -4,13 +4,15 @@
 <br>
 
 <h1>
- I AM AN AESTHETIC WEB DEVELOPER AND DESIGN ADVOCATE<br> 
- WHO STRIVES TO HELP OTHERS TO ACHIEVE THIER OWN DREAMS<br> 
- THROUGH MY OWN PASSIONS AND CREATIVITY
+An aesthetic web developer and design advocate.<br>
+I strive to help others to achieve their dreams<br>
+through my own passions and creativity.<br>
 </h1>
 
+<p>
+Creating experiences, appearances and layouts of websites is something I really enjoy doing. I believe good design in a website outputs success and builds trusts between a user and its objective. </p>
 
-<h2> What I love to do. </h2>
+<p>avaScript to me is like a superpower. It enables to create dynamic content and to make accessible technologies to help people every day. With JavaScript, anyone can really change the world.</p>
 
 
 
