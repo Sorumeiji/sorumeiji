@@ -1,43 +1,19 @@
 ![Kaleb](https://res.cloudinary.com/dhclgoera/image/upload/v1631229456/git_banner_y9cjsv_iufia5.png)
-![GitHub Views](https://komarev.com/ghpvc/?username=sorumeiji&color=253572)
-![javascript](https://img.shields.io/badge/JavaScript-Fan-253572.svg?logo=javascript&logoWidth=20)
+
 <br>
 
-<h1>
-I am an aesthetic web developer and design advocate.<br>
-striving to help others to achieve their dreams<br>
-through my own passions and creativity.<br>
-</h1>
-
-<p>
-Creating experiences, appearances and layouts of websites is something I really enjoy doing.<br/>
-I believe good design in a website outputs success and builds trusts between a user and its<br/>
-objective.
-
-JavaScript to me is like a superpower. It enables to create dynamic content and to make accessible<br/> 
-technologies to help people every day. With JavaScript, anyone can really change the world.<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    :wave: Hey! I am Kaleb.
+    <br>I am an aesthetic web developer and design advocate.
+      <br><em>striving</em>to help others to achieve their dreams
+    <br>through my own passions and creativity.<br><br>
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/sorumeiji">Twitter</a>
+  </samp>
 </p>
-
-
-
-<br><br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sorumeiji&theme=tokyonight" />
-</a>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorumeiji&hide=asp,&theme=tokyonight&layout=compact" />
-</a>
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
--->
 
 
 
